@@ -114,9 +114,6 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.header-navlink2 {
-  display: contents;
-}
 .header-heading3 {
   color: var(--dl-color-secondary-400);
   font-weight: 700;
@@ -139,7 +136,7 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.header-navlink3 {
+.header-navlink2 {
   display: contents;
 }
 .header-container2 {

@@ -10,8 +10,8 @@ const Meowsmp = (props) => {
   return (
     <div className="meowsmp-container">
       <Helmet>
-        <title>meowsmp - Meow Studios web</title>
-        <meta property="og:title" content="meowsmp - Meow Studios web" />
+        <title>Meow Studios web</title>
+        <meta property="og:title" content="Meow Studios web" />
       </Helmet>
       <div className="meowsmp-hero">
         <div className="meowsmp-bg"></div>

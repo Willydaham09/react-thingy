@@ -18,7 +18,7 @@ const Header = (props) => {
           <h1 className="header-heading textSM">{props.heading1}</h1>
         </a>
       </div>
-      <Link to="/meowsmp" className="header-navlink">
+      <Link to="/" className="header-navlink">
         <h1 className="header-heading1 textSM">{props.heading12}</h1>
       </Link>
       <Link to="/meowsteal" className="header-navlink1">
@@ -74,9 +74,7 @@ const Header = (props) => {
       </div>
       <div data-type="MobileMenu" className="header-mobile-menu">
         <div className="header-top">
-          <Link to="/" className="header-navlink2">
-            <h1 className="header-heading3 textSM">{props.heading11}</h1>
-          </Link>
+          <h1 className="header-heading3 textSM">{props.heading11}</h1>
           <div data-type="CloseMobileMenu" className="header-close-menu">
             <svg viewBox="0 0 1024 1024" className="header-icon06">
               <path
@@ -87,7 +85,7 @@ const Header = (props) => {
           </div>
         </div>
         <div className="header-mid">
-          <Link to="/profile" className="header-navlink3">
+          <Link to="/profile" className="header-navlink2">
             <div className="header-container2">
               <svg viewBox="0 0 1024 1024" className="header-icon08">
                 <path
