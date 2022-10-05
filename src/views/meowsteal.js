@@ -25,25 +25,25 @@ const Meowsteal = (props) => {
             </span>
           </div>
           <div className="meowsteal-container03">
-            <a
+            <button style="border:1px solid white; background-color: transparent;"><a
               href="https://meowsteal.tebex.io"
               target="_blank"
               rel="noreferrer noopener"
               className="meowsteal-link button"
-            >
+            ></button>
               STORE
             </a>
-            <a
+            <button style="border:1px solid white; background-color: transparent;"><a
               href="https://dsc.gg/meowsteal"
               target="_blank"
               rel="noreferrer noopener"
               className="meowsteal-link1 button"
-            >
+            ></button>
               DISCORD
             </a>
-            <a href="#info" className="meowsteal-link2 button">
+            <button style="border:1px solid white; background-color: transparent;"><a href="#info" className="meowsteal-link2 button">
               PLAY
-            </a>
+            </a></button>
           </div>
           <img
             alt="image"
