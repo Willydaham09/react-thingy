@@ -11,7 +11,7 @@ const Header = (props) => {
       <div className="header-container">
         <a
           href="https://meowsteal.net"
-          target="_blank"
+          target="_self"
           rel="noreferrer noopener"
           className="header-link"
         >
