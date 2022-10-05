@@ -69,13 +69,21 @@
   justify-content: center;
 }
 .meowsteal-link {
+  border: 1px solid white;
+  margin-right: 50px;
   text-decoration: none;
+  background-color: transparent;
 }
 .meowsteal-link1 {
+  border: 1px solid white;
+  margin-right: 50px;
   text-decoration: none;
+  background-color: transparent;
 }
 .meowsteal-link2 {
+  border: 1px solid white;
   text-decoration: none;
+  background-color: transparent;
 }
 .meowsteal-image {
   top: auto;

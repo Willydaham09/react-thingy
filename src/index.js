@@ -6,6 +6,7 @@ import './style.css'
 import Meowsmp from './views/meowsmp'
 import Meowsteal from './views/meowsteal'
 import Profile from './views/profile'
+import Home from './views/home'
 
 const App = () => {
   return (
