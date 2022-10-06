@@ -17,7 +17,7 @@ const Meowsteal = (props) => {
         <div className="meowsteal-bg"></div>
         <Header></Header>
         <div className="meowsteal-container01" style="margin-left: auto; margin-right: auto;">
-          <img src="/playground_assets/logo.png">
+          <img src="/playground_assets/logo.png"></img>
           <div className="meowsteal-container02">
             <h1 className="meowsteal-text">MeowSteal SMP</h1>
             <span className="meowsteal-text01">
